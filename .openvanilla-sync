@@ -1,5 +1,5 @@
 source: Open Vanilla
-commit: 61051ef055c43c2f132bff735c0ad6fe3c279e46
-subject: Solo page: hide the Azeroth Survivors heading too while the panel is hidden
+commit: 8fcc10b75d6ad07015b4206c6dce7d8d9e8ea950
+subject: Work in progress
 paths: launcher, launcher_gui.py, packaging, Play Open Vanilla.bat, links.txt, VERSION, CHANGELOG.md, docs/LAUNCHER.md, docs/img/launcher.jpg
 Made by dev/sync_repos.py. Edit the source, not this copy.
