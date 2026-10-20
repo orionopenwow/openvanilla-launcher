@@ -1,5 +1,5 @@
 source: Open Vanilla
-commit: b5b44fceb74c2d06afe667a0e105f0e9599878e7
-subject: Bug reports also open a public GitHub issue (Herald), for suggested fixes
+commit: d1cfd7980dc0e71dc6814a91ecbde1c0b5937bd1
+subject: Release 1.31.0
 paths: launcher, launcher_gui.py, packaging, Play Open Vanilla.bat, links.txt, VERSION, CHANGELOG.md, docs/LAUNCHER.md, docs/img/launcher.jpg
 Made by dev/sync_repos.py. Edit the source, not this copy.
