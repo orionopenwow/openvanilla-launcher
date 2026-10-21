@@ -1,5 +1,5 @@
 source: Open Vanilla
-commit: d1583ef7d31897a766fff1be3824449f73b01e8d
-subject: Release 1.38.0
+commit: 81033be40601a51280269b619697bd229780f88d
+subject: Collections: the Mounts tab lists the racial mounts learned as spells
 paths: launcher, launcher_gui.py, packaging, Play Open Vanilla.bat, links.txt, VERSION, CHANGELOG.md, docs/LAUNCHER.md, docs/img/launcher.jpg
 Made by dev/sync_repos.py. Edit the source, not this copy.
