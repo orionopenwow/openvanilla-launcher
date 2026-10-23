@@ -1,5 +1,5 @@
 source: Open Vanilla
-commit: f4d309008326bbccb6f7f1546ad384c8278403ea
-subject: Release 1.40.0
+commit: e948f02967339c0759d454e3988a75491968a028
+subject: Work in progress
 paths: launcher, launcher_gui.py, packaging, Play Open Vanilla.bat, links.txt, VERSION, CHANGELOG.md, docs/LAUNCHER.md, docs/img/launcher.jpg
 Made by dev/sync_repos.py. Edit the source, not this copy.
